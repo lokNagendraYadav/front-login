@@ -1,4 +1,4 @@
-const server = 'https://your-render-backend.onrender.com'; // replace with your actual backend URL
+const server = 'https://back-login-2xdw.onrender.com'; // replace with your actual backend URL
 
 async function login() {
   const email = document.getElementById('email').value;
